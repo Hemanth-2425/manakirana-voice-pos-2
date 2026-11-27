@@ -1,0 +1,10 @@
+{
+  "name": "Remix ManaKirana",
+  "description": "Offline, voice-first billing, live drum-stock, customer Udhaar credit ledger, and AI profit analytics for Indian Kirana shopkeepers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
